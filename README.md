@@ -1,4 +1,4 @@
-### Mitroo Welcome to my coding world, I am Shubhajit sarkar at your service 👋💻💻
+### Mitroo Welcome to my coding world, I am Shubhajit Sarkar at your service 👋💻💻
 
 <!--
 **shubhajit22/shubhajit22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
