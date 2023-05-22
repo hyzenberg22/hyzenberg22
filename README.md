@@ -32,11 +32,11 @@
 <a href="https://fb.com/shubhajit sarkar" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="shubhajit sarkar" height="30" width="40" /></a>
 <a href="https://instagram.com/dope_shubha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dope_shubha" height="30" width="40" /></a>
 <a href="https://dribbble.com/@ss_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="@ss_official" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shubhajit22" target="blank"><img align="center" src="https://icons8.com/icon/O4SEeX66BY8o/codechef" alt="shubhajit22" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shubhajit22" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=LnZMjt9rZC3d&format=png" alt="shubhajit22" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shubhajit22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhajit22" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/@codekhor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@codekhor" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shubhajit22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhajit22" height="30" width="40" /></a>
-<a href="https://discord.gg/Hyzenberg#5946" target="blank"><img align="center" src="https://icons8.com/icon/SAZw8WuWnQea/discord-bubble" alt="Hyzenberg#5946" height="30" width="40" /></a>
+<a href="https://discord.gg/Hyzenberg#5946" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Hyzenberg#5946" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
