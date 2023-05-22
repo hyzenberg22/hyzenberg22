@@ -46,4 +46,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyzenberg22&show_icons=true&locale=en&theme=synthwave" alt="hyzenberg22" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/hyzenberg22/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/YOUR_USERNAME/hyzenberg22/blob/output/github-contribution-grid-snake.svg)
