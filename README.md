@@ -1,6 +1,6 @@
 ![logo](https://github.com/hyzenberg22/hyzenberg22/blob/master/Artifacts/Github%20banner.gif)
 
-<h1 align="center">Hi 👋,<b>I'm Shubhajit Sarkar</b></h1>
+<h1 align="center">Hi 👋,<b>I'm **Shubhajit Sarkar**</b></h1>
 <h3 align="center"> 👨‍💻Software Engineer | 💻 UI-UX Graphic Designer | ✒ Freelancer | 🎸Guiter Player</h3>
 <h3 align="center">"Welcome to my GitHub World, let's learn something together"</h3>
 
@@ -15,13 +15,13 @@
 
 - 👯 I’m looking to collaborate on **Open-Source, Linux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hyzenberg22](https://github.com/hyzenberg22)
+- 👨‍💻 All of my projects are available at [**My Projects**](https://github.com/hyzenberg22 "Project Links")
 
 - 💬 Ask me about **JAVA , C++, Python, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **hyzenberg22@protonmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1R8Ts972ghGAH6EQuEn2Jz6LGZu6BNzza/view?usp=sharing "LCO")
+- 📄 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1R8Ts972ghGAH6EQuEn2Jz6LGZu6BNzza/view?usp=sharing "My Resume")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
