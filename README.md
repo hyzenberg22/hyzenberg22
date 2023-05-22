@@ -11,8 +11,8 @@
 
 - 🔭 I’m currently working on **TodoList app using Spring**
 
-- 🌱 I’m currently learning 
-  <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="shubha_jit22" height="20" width="20" /></a> <a href="https://docs.aws.amazon.com/index.html" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="shubha_jit22" height="20" width="20" /></a> <a href="https://angular.io/docs" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="shubha_jit22" height="20" width="20" /></a>
+- 🌱 I’m currently learning
+  <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="shubha_jit22" height="20" width="20" /></a> <a href="https://docs.aws.amazon.com/index.html" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="shubha_jit22" height="20" width="20" /></a> <a href="https://angular.io/docs" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="shubha_jit22" height="20" width="20" /></a><a href="https://docs.linuxfoundation.org/lfx/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linuxfoundation/linuxfoundation-icon.svg" alt="shubha_jit22" height="20" width="20" /></a>
 
 - 👯 I’m looking to collaborate on **Open-Source, Linux**
 
