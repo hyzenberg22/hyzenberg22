@@ -1,3 +1,4 @@
+![logo](https://github.com/hyzenberg22/hyzenberg22/blob/master/Github%20banner.gif)
 <h1 align="center">Hi 👋, I'm Shubhajit Sarkar</h1>
 <h3 align="center"> 👨‍💻Software Engineer | 💻 UI-UX Graphic Designer | ✒ Freelancer | 🎸Guiter Player</h3>
 <h3 align="center">"Welcome to my GitHUb Profile"</h3>
