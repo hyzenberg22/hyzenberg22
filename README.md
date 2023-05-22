@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **TodoList app using Spring**
 
 - 🌱 I’m currently learning **Spring Boot , AWS, Angular, Linux**
-  <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="shubha_jit22"/></a>
+  <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="shubha_jit22" height="30" width="30" /></a>
 
 - 👯 I’m looking to collaborate on **Open-Source, Linux**
 
