@@ -36,7 +36,7 @@
 <a href="https://www.hackerrank.com/shubhajit22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhajit22" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/@codekhor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@codekhor" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shubhajit22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhajit22" height="40" width="40" /></a>
-<a href="https://discord.gg/Hyzenberg#5946" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Hyzenberg#5946" height="40" width="40" /></a>
+<a href="https://discord.gg/Hyzenberg#5946" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="Hyzenberg#5946" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
