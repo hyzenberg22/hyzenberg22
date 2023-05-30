@@ -1,6 +1,6 @@
 ![logo](https://github.com/hyzenberg22/hyzenberg22/blob/master/Artifacts/Github%20banner.gif)
 
-<h1 align="center">Hi 👋,<b>I'm Shubhajit Sarkar</b></h1>
+<h1 align="center">Hi 🙏 <b> I'm Shubhajit Sarkar</b></h1>
 <h3 align="center"> 👨‍💻Software Engineer | 💻 UI-UX Graphic Designer | ✒ Freelancer | 🎸Guiter Player</h3>
 <h3 align="center">"Welcome to my GitHub World, let's learn something new together"</h3>
 
