@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/shubha_jit22" target="blank"><img src="https://img.shields.io/twitter/follow/shubha_jit22?logo=twitter&style=for-the-badge" alt="shubha_jit22" /></a> </p>
 
-- 🔭 I’m currently working on **TodoList app using Spring**
+- 🔭 I’m currently working on [**Todo-List-App-SpringBoot**](https://github.com/hyzenberg22/Todo-List-App-SpringBoot-Learning/tree/master "Todo-List-App-SpringBoot")
 
 - 🌱 I’m currently learning
   <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="shubha_jit22" height="25" width="25" /></a> <a href="https://docs.aws.amazon.com/index.html" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="shubha_jit22" height="25" width="25" /></a> <a href="https://angular.io/docs" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="shubha_jit22" height="25" width="25" /></a><a href="https://docs.linuxfoundation.org/lfx/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linuxfoundation/linuxfoundation-icon.svg" alt="shubha_jit22" height="25" width="25" /></a>
